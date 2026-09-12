@@ -12,7 +12,7 @@ MLP model je korišćen kao glavna komponenta dubokog učenja u prototipu digita
 
 ## Struktura projekta
 
-`ai4i_model_experiments.py`
+`ai4i.py`
 
 Sadrži pripremu i pretprocesiranje podataka, obučavanje modela, evaluaciju, izbor praga klasifikacije, poređenje modela i petostruku stratifikovanu unakrsnu validaciju.
 
