@@ -1,0 +1,15 @@
+{
+    "feature_columns": [
+        "Air temperature (K)",
+        "Process temperature (K)",
+        "Rotational speed (rpm)",
+        "Torque (Nm)",
+        "Tool wear (min)",
+        "Type_H",
+        "Type_L",
+        "Type_M"
+    ],
+    "decision_threshold": 0.5300000000000001,
+    "target": "Machine failure",
+    "model_description": "AI4I MLP from the 70/15/15 experiment"
+}
